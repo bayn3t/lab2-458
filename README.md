@@ -17,7 +17,7 @@ For context, these terms refer to different generations of Shimano's high-end ro
 
 
 **Dura Ace 7400**  
-![7400 groupset](img/7400&20visualized.png)
+![7400 groupset](img/7400%20visualized.png)
 
 
 **Dura Ace 7200**  
