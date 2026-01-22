@@ -13,13 +13,15 @@ For context, these terms refer to different generations of Shimano's high-end ro
 ### Word Clouds
 
 **Dura Ace 7700**  
-![7700 groupset](img/7700 visualized.png)
+![7700 groupset](img/7700%20visualized.png)
+
 
 **Dura Ace 7400**  
-![7400 groupset](img/7400 visualized.png)
+![7400 groupset](img/7400&20visualized.png)
+
 
 **Dura Ace 7200**  
-![7200 groupset](img/7200 visualized.png)
+![7200 groupset](img/7200%20visualized.png)
 
 ---
 
